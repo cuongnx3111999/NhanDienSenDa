@@ -1,4 +1,4 @@
-#Thu Jun 30 10:00:14 ICT 2022
+#Thu Jun 30 16:58:41 ICT 2022
 base.2=F\:\\AI\\odml-pathways-main\\odml-pathways-main\\object-detection\\codelab2\\android\\final\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\5\\classes.dex
 path.2=5/classes.dex
 base.1=F\:\\AI\\odml-pathways-main\\odml-pathways-main\\object-detection\\codelab2\\android\\final\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
